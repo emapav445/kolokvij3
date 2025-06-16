@@ -1,6 +1,11 @@
 	@charset "utf-8";
 	/* CSS Document */
 
+	@font-face { 
+		font-family: "EmaPavlakovic";
+		src: url("EmaPavlakovic.ttf") format('truetype');
+	}
+
 	p {
 		color: beige;
 		font-family: "PT Serif", serif;
@@ -25,7 +30,6 @@
 }
 	h1 {
 		font-family: "EmaPavlakovic";
-		src=url("EmaPavlakovic.ttf") format('truetype');
 		font-weight: 300;
 		font-style: normal;
 		font-size: 40px;
