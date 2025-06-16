@@ -3,7 +3,7 @@
 
 	@font-face { 
 		font-family: ("EmaPavlakovic");
-		src: url("EmaPavlakovic.ttf") format('truetype');
+		src:url("EmaPavlakovic.ttf") format('truetype');
 	}
 
 	p {
@@ -114,8 +114,8 @@
 	
 	img{
 		height: 300px;
-		margin-left: 380px;
-		margin-right: -380px;
+		margin-left: 400px;
+		margin-right: -400px;
 }
 	video {
 		margin-left: 550px;
