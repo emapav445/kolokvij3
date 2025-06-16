@@ -2,7 +2,7 @@
 	/* CSS Document */
 
 	@font-face { 
-		font-family: "EmaPavlakovic";
+		font-family: ("EmaPavlakovic");
 		src: url("EmaPavlakovic.ttf") format('truetype');
 	}
 
