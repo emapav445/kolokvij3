@@ -113,18 +113,18 @@
 	li a:hover {text-decoration:underline;}
 	
 	img{
-		display: center;
+		display: inline;
 		height: 300px;
 		margin-left: auto;
 		margin-right: auto;
 }
 	video {
-		display: center;
+		display: inline;
 		margin-left: auto;
 		margin-right: auto;
 	}
 	.video_2 {
-		display: center;
+		display: inline;
 		margin-left: auto;
 		margin-right: auto;
 	}
