@@ -50,12 +50,12 @@
 	img{
 		display: inline;
 		height: 300px;
-		margin-left: 400px;
-		margin-right: -400px;
+		margin-left: auto;
+		margin-right: auto;
 }
 	video {
-		margin-left: 300px;
-		margin-right: -300px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 a:link {
 		color: black;
