@@ -48,13 +48,13 @@
 		background-color: rgba(153, 153, 153);
 	}
 	img{
-		display: inline;
+		display: center;
 		height: 300px;
 		margin-left: auto;
 		margin-right: auto;
 }
 	video {
-		display: inline;
+		display: center;
 		margin-left: auto;
 		margin-right: auto;
 	}
